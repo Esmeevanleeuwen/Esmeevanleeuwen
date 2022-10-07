@@ -1,4 +1,4 @@
-Hi, I'm Esmee van Leeuwen a Software develop student at technova college
+Hi, I'm Esmee van Leeuwen a Software development student at technova college
 
 <!---
 esmee953/esmee953 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
